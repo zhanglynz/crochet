@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "crochet/knitting",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 29, 2025\n\n\nHelen Zheng\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
-    "section": "",
-    "text": "This is a post with executable code.\n\n1 + 1\n\n[1] 2"
+    "text": "This is the first post about crochet/knitting. Welcome!"
   },
   {
     "objectID": "about.html",
@@ -21,10 +14,10 @@
     "text": "Since picking up crochet/knitting as a hobby, I’ve really enjoyed creating new pieces! This website showcases some of the work I’m most proud of."
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "crochet/knitting",
     "section": "",
-    "text": "This is the first post about crochet/knitting. Welcome!"
+    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 29, 2025\n\n\nHelen Zheng\n\n\n\n\n\nNo matching items"
   }
 ]
