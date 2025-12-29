@@ -1,0 +1,11 @@
+---
+title: "Welcome To My Blog"
+author: "Helen Zheng"
+date: "2025-12-29"
+categories: [news]
+---
+
+This is the first post about crochet/knitting. Welcome!
+
+![](thumbnail.jpg)
+

@@ -1,0 +1,19 @@
+---
+title: "About"
+image: profile.jpeg
+about:
+  template: jolla
+  image-shape: rectangle
+  image-width: 20em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com
+
+---
+
+
+Since picking up crochet/knitting as a hobby, I’ve really enjoyed creating new pieces! This website showcases some of the work I’m most proud of.
