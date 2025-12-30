@@ -2,7 +2,7 @@
 title: "Mini Bag"
 author: "Helen Zheng"
 date: "2025-08-19"
-categories: [practice]
+categories: [BAG]
 ---
 
 Mini bag
