@@ -1,5 +1,6 @@
-new_post <- function(sub_folder = paste0("post_", Sys.Date()))
-{the_folder <- sprintf("./posts/%s", sub_folder)
+new_post <- function(sub_folder = paste0("post_", Sys.Date()), extra = NULL)
+{sub_folder <- paste0(sub_folder, "_", extra)
+ the_folder <- sprintf("./posts/%s", sub_folder)
  if(!dir.exists(the_folder)) dir.create(the_folder)
  
  file_from <- "./template.qmd"
@@ -8,4 +9,4 @@ new_post <- function(sub_folder = paste0("post_", Sys.Date()))
   
 }
 
-new_post()
+new_post(extra = 'a')
