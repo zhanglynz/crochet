@@ -1,11 +1,12 @@
 ---
-title: "Welcome To My Blog"
+title: "First Project"
 author: "Helen Zheng"
 date: "2025-12-29"
-categories: [news]
+categories: [practice]
 ---
 
-This is the first post about crochet/knitting. Welcome!
+ Coaster
 
-![](IMG_3037.jpeg)
+![](1a coaster.jpeg)
 
+![](1b.jpeg)

@@ -4,7 +4,7 @@
     "href": "index.html",
     "title": "crochet/knitting",
     "section": "",
-    "text": "Welcome To My Blog\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nDec 29, 2025\n\n\nHelen Zheng\n\n\n\n\n\nNo matching items"
+    "text": "First Project\n\n\n\npractice\n\n\n\n\n\n\n\n\n\nDec 29, 2025\n\n\nHelen Zheng\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -16,6 +16,13 @@
   {
     "objectID": "posts/welcome/index.html",
     "href": "posts/welcome/index.html",
+    "title": "First Project",
+    "section": "",
+    "text": "Coaster"
+  },
+  {
+    "objectID": "template.html",
+    "href": "template.html",
     "title": "Welcome To My Blog",
     "section": "",
     "text": "This is the first post about crochet/knitting. Welcome!"
