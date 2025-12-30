@@ -9,4 +9,4 @@ new_post <- function(sub_folder = paste0("post_", Sys.Date()), extra = NULL)
   
 }
 
-new_post(extra = 'c')
+new_post(extra = 'd')
