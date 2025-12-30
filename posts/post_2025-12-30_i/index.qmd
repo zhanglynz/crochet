@@ -1,5 +1,5 @@
 ---
-title: "Dimond Pattern Vest"
+title: "Diamond Pattern Vest"
 author: "Helen Zheng"
 date: "2025-12-9"
 categories: [CLOTHES]

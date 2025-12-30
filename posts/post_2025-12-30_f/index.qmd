@@ -1,5 +1,5 @@
 ---
-title: "Tote Bag & Mini Bagpack"
+title: "Tote Bag & Mini Backpack"
 author: "Helen Zheng"
 date: "2025-11-1"
 categories: [BAG]
