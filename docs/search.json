@@ -21,18 +21,11 @@
     "text": "Coaster"
   },
   {
-    "objectID": "template.html",
-    "href": "template.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post_2025-12-30_c/index.html",
+    "href": "posts/post_2025-12-30_c/index.html",
+    "title": "Flower Charms",
     "section": "",
-    "text": "This is the first post about crochet/knitting. Welcome!"
-  },
-  {
-    "objectID": "posts/post_2025-12-30/index.html",
-    "href": "posts/post_2025-12-30/index.html",
-    "title": "Mini Bag",
-    "section": "",
-    "text": "Mini bag"
+    "text": "Flower bouquet & Mini sunflower pouch\n Flower bouquet\n\nMini sunflower pouch"
   },
   {
     "objectID": "posts/post_2025-12-30_a/index.html",
@@ -42,10 +35,10 @@
     "text": "Phone bags"
   },
   {
-    "objectID": "posts/post_2025-12-30_c/index.html",
-    "href": "posts/post_2025-12-30_c/index.html",
-    "title": "Flower Charms",
+    "objectID": "posts/post_2025-12-30/index.html",
+    "href": "posts/post_2025-12-30/index.html",
+    "title": "Mini Bag",
     "section": "",
-    "text": "Flower bouquet & Mini sunflower pouch\n Flower bouquet\n\nMini sunflower pouch"
+    "text": "Mini bag"
   }
 ]

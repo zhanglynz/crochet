@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "crochet/kintting"
+  title: "crochet/knitting"
   navbar:
     right:
       - about.qmd
