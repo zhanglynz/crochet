@@ -1,11 +1,11 @@
 ---
 title: "First Project"
 author: "Helen Zheng"
-date: "2025-12-29"
+date: "16 August 2025"
 categories: [practice]
 ---
 
- Coaster
+Coaster
 
 ![](1a coaster.jpeg)
 
