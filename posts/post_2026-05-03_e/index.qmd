@@ -2,7 +2,7 @@
 title: "Square Mat"
 author: "Helen Zheng"
 date: "2026-04-27"
-categories: [news]
+categories: [MAT]
 ---
 
 
