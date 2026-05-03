@@ -1,5 +1,5 @@
 ---
-title: "Green Pullover Red Vest"
+title: "Green Pullover & Red Vest"
 author: "Helen Zheng"
 date: "2026-03-16"
 categories: [CLOTHES]
