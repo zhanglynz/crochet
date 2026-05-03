@@ -2,7 +2,7 @@
 title: "Cardigan"
 author: "Helen Zheng"
 date: "2026-02-26"
-categories: [news]
+categories: [CLOTHES]
 ---
 
 
